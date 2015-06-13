@@ -96,7 +96,7 @@
         afkpositionCheck: 15,
         afkRankCheck: "ambassador",
         motdEnabled: true,
-        motdInterval: 1,
+        motdInterval: 2,
         motd: "Looking for a fun Guild to join? Join AoD today, send a mail to LordDead.1526 or TheJerzke.9417 in GW2.",
         filterChat: true,
         etaRestriction: false,
