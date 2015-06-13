@@ -1,7 +1,7 @@
 (function () {
     
     //Change this to your GitHub username so you don't have to modify so many things.
-    var fork = "Yemasthui";
+    var fork = "Lorddead1233";
 		
     //Define our function responsible for extending the bot.
     function extend() {
@@ -95,9 +95,9 @@
         ],
         afkpositionCheck: 15,
         afkRankCheck: "ambassador",
-        motdEnabled: false,
-        motdInterval: 5,
-        motd: "Temporary Message of the Day",
+        motdEnabled: true,
+        motdInterval: 1,
+        motd: "Boop",
         filterChat: true,
         etaRestriction: false,
         welcome: true,
