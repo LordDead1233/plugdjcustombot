@@ -56,7 +56,7 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "TrahearneBOT",
+        botName: "InnkeeperBOT",
         language: "english",
         chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
         startupCap: 1, // 1-200
@@ -95,9 +95,9 @@
         ],
         afkpositionCheck: 15,
         afkRankCheck: "ambassador",
-        motdEnabled: true,
-        motdInterval: 2,
-        motd: "Looking for a fun Guild to join? Join AoD today, send a mail to LordDead.1526 or TheJerzke.9417 in GW2.",
+        motdEnabled: false,
+        motdInterval: 0,
+        motd: "MOTD",
         filterChat: true,
         etaRestriction: false,
         welcome: true,
